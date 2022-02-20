@@ -13,6 +13,9 @@ public class myGitClass {
 					
 			
 			System.out.println("localde  15.satırda değişiklik");
+			
+			System.out.println("localde  17 nci sat�r");
+			
 
 	}
 
