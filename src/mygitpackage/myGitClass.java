@@ -8,14 +8,19 @@ public class myGitClass {
 		System.out.println("Mey second commit");
 		System.out.println("My third commit");
 		System.out.println("My 4th commit");
-		System.out.println("github'tan değişiklik yaptım"); //github'tan çekilen satır
+		System.out.println("github'tan deÃ°iÃ¾iklik yaptÃ½m"); //github'tan Ã§ekilen satÃ½r
 		System.out.println("My 5th commit");
 					
+
 			
 			System.out.println("localde  15.satÄ±rda deÄŸiÅŸiklik");
 			
 			System.out.println("localde  17 nci satır");
 			
+
+
+				
+System.out.println("github 16.satir");
 
 	}
 
